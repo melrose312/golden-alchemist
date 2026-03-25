@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "landing": {
+    "headline": "Your financial peace of mind starts here",
+    "subtitle": "We understand that behind every figure, there is a life project. We combine years of market experience with a strategic vision to help you protect and grow your assets.",
+    "cta": "About Us"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "The Bridge Between Your Vision and Capital",
+    "paragraph1": "At GAP, we know that in real estate, great opportunities don't wait. Many high-potential projects remain on paper due to rigid financing structures or lack of access to agile capital. We were born to change that.",
+    "paragraph2": "We are the strategic ally of developers and real estate professionals, facilitating access to the funds needed to transform blueprints into profitable realities.",
+    "paragraph3": "We are not just intermediaries; we are growth facilitators. We specialize in connecting solid projects with intelligent investment sources, optimizing the capital structure to maximize the return on each operation.",
+    "highlight": "We find the backing to make it a reality."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Because we speak your language",
+    "description": "We understand square footage, permits, rates of return and, above all, the trust that the sector requires. At GAP, our success is measured by the number of cranes raised and projects delivered thanks to our management.",
+    "service1": {
+      "title": "Operational Agility",
+      "description": "We understand that timing is everything. We evaluate and manage the search for funds with the speed that the market demands."
+    },
+    "service2": {
+      "title": "Expert Vision",
+      "description": "We analyze each project from a technical and financial perspective, ensuring that the proposal is attractive to both those seeking capital and those providing it."
+    },
+    "service3": {
+      "title": "Value Network",
+      "description": "We have a consolidated network of institutional and private investors interested in high-yield real estate assets."
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "testimonial1": {
+      "name": "Carlos R.",
+      "quote": "We managed to structure the fundraising in record time. Their ability to understand the urgency of the real estate sector is what makes them different."
+    },
+    "testimonial2": {
+      "name": "Elena M.",
+      "quote": "What I value most about working with GAP is that they don't just get you the capital, but they help you optimize the financial structure of the project. They are a strategic partner in every sense."
+    },
+    "testimonial3": {
+      "name": "Jorge L.",
+      "quote": "With GAP's advisory and fund network, we not only completed the investment round, but we achieved much more favorable conditions than we expected."
+    }
+  },
+  "cta": {
+    "title": "We are available to meet",
+    "subtitle": "Let us help you turn your vision into reality.",
+    "button": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We are available to meet and help you",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send message"
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Peru",
+      "email": "Email",
+      "emailValue": "shillyriser@gmail.com",
+      "phone": "Phone",
+      "phoneValue": "+1 (702) 527-4737"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us"
+  }
+}

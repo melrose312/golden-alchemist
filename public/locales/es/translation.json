@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "landing": {
+    "headline": "Tu tranquilidad financiera comienza aquí",
+    "subtitle": "Entendemos que detrás de cada cifra, hay un proyecto de vida. Combinamos años de experiencia en el mercado con una visión estratégica, para ayudarte a proteger y hacer crecer tu patrimonio.",
+    "cta": "Conócenos"
+  },
+  "about": {
+    "title": "Nosotros",
+    "subtitle": "El Puente entre tu Visión y el Capital",
+    "paragraph1": "En GAP, sabemos que en el sector inmobiliario, las grandes oportunidades no esperan. Muchos proyectos de alto potencial se quedan en el papel debido a estructuras de financiamiento rígidas o falta de acceso a capital ágil. Nacimos para cambiar eso.",
+    "paragraph2": "Somos el aliado estratégico de desarrolladores y profesionales inmobiliarios, facilitando el acceso a los fondos necesarios para transformar planos en realidades rentables.",
+    "paragraph3": "No somos solo intermediarios; somos facilitadores de crecimiento. Nos especializamos en conectar proyectos sólidos con fuentes de inversión inteligentes, optimizando la estructura de capital para maximizar el retorno de cada operación.",
+    "highlight": "Nosotros encontramos el respaldo para hacerlo realidad."
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Porque hablamos tu mismo idioma",
+    "description": "Entendemos de metros cuadrados, de permisos, de tasas de retorno y, sobre todo, de la confianza que requiere el sector. En GAP, nuestro éxito se mide por el número de grúas levantadas y proyectos entregados gracias a nuestra gestión.",
+    "service1": {
+      "title": "Agilidad Operativa",
+      "description": "Entendemos que el timing lo es todo. Evaluamos y gestionamos la búsqueda de fondos con la rapidez que el mercado exige."
+    },
+    "service2": {
+      "title": "Visión de Experto",
+      "description": "Analizamos cada proyecto desde una perspectiva técnica y financiera, asegurando que la propuesta sea atractiva tanto para quien busca el capital como para quien lo provee."
+    },
+    "service3": {
+      "title": "Red de Valor",
+      "description": "Contamos con una red consolidada de inversores institucionales y privados interesados en activos inmobiliarios de alto rendimiento."
+    }
+  },
+  "testimonials": {
+    "title": "Testimonios",
+    "testimonial1": {
+      "name": "Carlos R.",
+      "quote": "Logramos estructurar el levantamiento de fondos en tiempo récord. Su capacidad para entender la urgencia del sector inmobiliario es lo que los hace diferentes."
+    },
+    "testimonial2": {
+      "name": "Elena M.",
+      "quote": "Lo que más valoro de trabajar con GAP, es que no solo te consiguen el capital, sino que te ayudan a optimizar la estructura financiera del proyecto. Son un socio estratégico en toda regla."
+    },
+    "testimonial3": {
+      "name": "Jorge L.",
+      "quote": "Con la asesoría y la red de fondos de GAP, no solo completamos la ronda de inversión, sino que logramos condiciones mucho más favorables de las que esperábamos."
+    }
+  },
+  "cta": {
+    "title": "Estamos disponibles para reunirnos",
+    "subtitle": "Permítenos ayudarte a convertir tu visión en realidad.",
+    "button": "Contáctanos"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Estamos disponibles para reunirnos y ayudarte",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    },
+    "info": {
+      "address": "Dirección",
+      "addressValue": "Lima, Perú",
+      "email": "Correo",
+      "emailValue": "info@goldenalchemist.com",
+      "phone": "Teléfono",
+      "phoneValue": "+51 999 999 999"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "quickLinks": "Enlaces Rápidos",
+    "followUs": "Síguenos"
+  }
+}
