@@ -39,7 +39,7 @@ function Contact() {
                   {translate("contact.info.email")}
                 </h4>
                 <p className="contact-detail__value">
-                  {translate("info@goldenalchemistpartners.com")}
+                  {translate("Complete the Form Below to Send us a Message")}
                 </p>
               </div>
             </div>
